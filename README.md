@@ -4,7 +4,8 @@ This repository demonstrates how to deploy a **Node.js REST API** on an **AWS EC
 
 This is the Blog
 ```sh
-https://medium.com/@wimukthibandara928/node-js-app-deploy-in-aws-ec2-instance-using-github-actions-for-ci-cd-dab85001d4a7
+https://medium.com/@wimukthibandara928/node-js-app-deploy-in-aws-ec2-instance-
+using-github-actions-for-ci-cd-dab85001d4a7
 ```
 
 ---
